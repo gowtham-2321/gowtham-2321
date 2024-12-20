@@ -1,4 +1,4 @@
-# gowtham-2321
+# Gowtham Jegathesan
 - 👋 Hi, I’m [@gowtham-2321](https://github.com/gowtham-2321)
 - 😄 Pronouns: he/him
 - 👀 I’m interested in Data Science and Game Development
